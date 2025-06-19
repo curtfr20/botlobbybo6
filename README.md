@@ -69,4 +69,4 @@ npm start
 
 ## Licence
 
-Licence ISC 
+Licence Creative Commons CC BY-NC-ND (Attribution – Non Commercial – No Derivatives)
